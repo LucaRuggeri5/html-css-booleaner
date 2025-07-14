@@ -21,3 +21,14 @@
 .didascalie-foto{
     font-size: 10px;
 }
+
+/* testo evidenziato in giallo */
+.testo-evidenziato-giallo{
+    background-color: yellow;
+}
+
+/* allineamento dell'elenco puntato */
+ul {
+    margin: 20;
+    padding-left: 15px;
+}
