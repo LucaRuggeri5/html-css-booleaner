@@ -28,7 +28,27 @@
 }
 
 /* allineamento dell'elenco puntato */
-ul {
+.ul {
     margin: 20;
     padding-left: 15px;
+}
+
+/* head tabella */
+.head-tabella{
+  background-color: #0CA7E2;
+  color: white;
+  text-align: left;
+}
+
+/* righe tabella */
+.td{
+  text-align: left;
+}
+
+.prima-riga{
+    background-color: #9cd6f3;
+}
+
+.terza-riga{
+    background-color: #9cd6f3;
 }
