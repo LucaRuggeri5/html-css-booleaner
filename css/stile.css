@@ -49,7 +49,23 @@ table{
 .prima-riga{
     background-color: #9cd6f3;
 }
-
 .terza-riga{
     background-color: #9cd6f3;
+}
+
+/* testo sul banner "potrebbero interessarti" */
+h3{
+    color: #636363;
+}
+
+/* foto banner */
+.contenitore-foto-banner{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.foto-banner{
+    width: 250px;
+    height: auto;
 }
