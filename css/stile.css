@@ -9,3 +9,15 @@
 .the-booleaner{
     color: #40A6D1;
 }
+
+/* immagini Tim */
+.contenitore-foto-di-tim {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+/* didascalie immagini Tim */
+.didascalie-foto{
+    font-size: 10px;
+}
