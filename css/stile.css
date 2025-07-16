@@ -1,13 +1,11 @@
 /* sfondo con logo */
 #logo{
-    background-image: url(/img/pattern.png);
-    background-repeat: repeat;
+    background-image: url(../img/pattern.png);
     background-color: #4EA1FF;
-    background-size: cover;
+    background-size: 23%;
     width: 20%;
     padding-right: 100%;
-    padding-bottom: 20px;
-    
+    padding-top: 20px;    
 }
 
 
@@ -84,14 +82,14 @@ h3{
 
 /* foto banner */
 #monitor{
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     background-size: cover;
     width: 300px;
     height: 200px;
 }
 
 #graph{
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/graph.jpg);
     background-size: cover;
     width: 300px;
     height: 200px;  
